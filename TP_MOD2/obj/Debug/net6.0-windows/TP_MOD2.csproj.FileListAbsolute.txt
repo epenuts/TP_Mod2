@@ -1,0 +1,17 @@
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\bin\Debug\net6.0-windows\TP_MOD2.exe
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\bin\Debug\net6.0-windows\TP_MOD2.deps.json
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\bin\Debug\net6.0-windows\TP_MOD2.runtimeconfig.json
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\bin\Debug\net6.0-windows\TP_MOD2.dll
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\bin\Debug\net6.0-windows\TP_MOD2.pdb
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\obj\Debug\net6.0-windows\TP_MOD2.csproj.AssemblyReference.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\obj\Debug\net6.0-windows\TP_MOD2.Form1.resources
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\obj\Debug\net6.0-windows\TP_MOD2.csproj.GenerateResource.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\obj\Debug\net6.0-windows\TP_MOD2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\obj\Debug\net6.0-windows\TP_MOD2.AssemblyInfoInputs.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\obj\Debug\net6.0-windows\TP_MOD2.AssemblyInfo.cs
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\obj\Debug\net6.0-windows\TP_MOD2.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\obj\Debug\net6.0-windows\TP_MOD2.dll
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\obj\Debug\net6.0-windows\refint\TP_MOD2.dll
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\obj\Debug\net6.0-windows\TP_MOD2.pdb
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\obj\Debug\net6.0-windows\TP_MOD2.genruntimeconfig.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\TP\Modul_2\TP_MOD2\obj\Debug\net6.0-windows\ref\TP_MOD2.dll
